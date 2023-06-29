@@ -1,7 +1,7 @@
 # proyecto-final-fidi-db
 Proyecto Final FiDi Database
 
-Librerias instaladas para el Backend. (contenidas en el Pipfile)
+## Librerias instaladas para el Backend. (contenidas en el Pipfile)
 - python-dotenv
 - flask-sqlalchemy
 - psycopg2-binary
@@ -10,7 +10,7 @@ Librerias instaladas para el Backend. (contenidas en el Pipfile)
 - flask-jwt-extended
 - flask-cors
 
-## configuracion archivo .env
+### configuracion archivo .env
   ```
   DATABASEURI="postgresql+psycopg2://postgres:postgres@localhost:5432/dbfidi"
   JWT_SECRET="f400ca7c5ef4d9dfbc31c58898cc40aa"

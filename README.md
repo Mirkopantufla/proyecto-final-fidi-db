@@ -1,7 +1,7 @@
 # proyecto-final-fidi-db
 Proyecto Final FiDi Database
 
-Librerias instaladas para el Backend
+Librerias instaladas para el Backend. (contenidas en el Pipfile)
 - python-dotenv
 - flask-sqlalchemy
 - psycopg2-binary

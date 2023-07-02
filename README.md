@@ -1,6 +1,11 @@
 # proyecto-final-fidi-db
 Proyecto Final FiDi Database
 
+## Diagrama de base de datos
+```
+https://app.quickdatabasediagrams.com/#/d/3G2nHC
+```
+
 ## Librerias instaladas para el Backend. (contenidas en el Pipfile)
 - python-dotenv
 - flask-sqlalchemy

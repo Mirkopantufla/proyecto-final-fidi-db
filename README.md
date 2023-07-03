@@ -21,3 +21,8 @@ https://app.quickdatabasediagrams.com/#/d/3G2nHC
   DATABASEURI="postgresql+psycopg2://postgres:postgres@localhost:5432/dbfidi"
   JWT_SECRET="f400ca7c5ef4d9dfbc31c58898cc40aa"
   ```
+
+### comandos a ejecutar
+- flask db init // solamente la primera vez o si se elimina la carpeta migracion
+- flask db migrate // crea migraciones
+- flask db upgrade // lleva las migracion a la BD

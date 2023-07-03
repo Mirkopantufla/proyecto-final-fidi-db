@@ -14,6 +14,7 @@ https://app.quickdatabasediagrams.com/#/d/3G2nHC
 - flask-migrate
 - flask-jwt-extended
 - flask-cors
+- cloudinary
 
 ### configuracion archivo .env
   ```
